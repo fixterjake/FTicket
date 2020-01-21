@@ -7,6 +7,6 @@ author: ${author}
 website: ${url}
 
 main: ${mainClass}
-
+ 
 
 permissions: {}
