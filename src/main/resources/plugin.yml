@@ -1,10 +1,11 @@
 
-IntelliJ IDEA
 name: ${name}
 version: ${version}
 description: ${description}
 author: ${author}
 website: ${url}
+api-version: ${api-version}
+aliases: ${alias}
 
 main: ${mainClass}
  

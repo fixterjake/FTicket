@@ -18,8 +18,6 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <author>fixterjake</author>
     <mainClass>com.fixterjake.spigot.FTicket</mainClass>
-    <api-version>1.15</api-version>
-    <alias>ft</alias>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
